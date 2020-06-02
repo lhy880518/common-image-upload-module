@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="common-image-uploader.main" target="1.8" />
+      <module name="common-image-uploader.test" target="1.8" />
+      <module name="demo.main" target="1.8" />
+      <module name="demo.test" target="1.8" />
+      <module name="rest-service.main" target="1.8" />
+      <module name="rest-service.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
