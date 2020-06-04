@@ -161,7 +161,7 @@ gradle-app.setting
 ### Gradle Patch ###
 **/build/
 
-# End of https://www.gitignore.io/api/java,macos,gradle,intellij
-
 ### my ignore ###
 src/main/resources/application.yml
+
+# End
