@@ -24,7 +24,10 @@ A. 파일업로드 api와 데이터 insert api를 같이 사용하지 않고 분
 Q. Validation Check는 어떻게 할 것인가.  
 A. File null check는 spring validation을 사용할 예정이나 확장자 체크 혹은 이외의 체크들은 추가로 만들어서 api호출시점에 체크하여 리턴을 하는 방식으로 할 예정
 
-Q. 
+
+## 남은 해결사항
+1. 파일 여러개 = restapi로 파일 여러개 올리는걸로 테스트 해보면될듯
+2. 리사이징 = 람다로 해보는게...= java
 
 # 참고 사이트
 1. https://brunch.co.kr/@kimkm4726/2
